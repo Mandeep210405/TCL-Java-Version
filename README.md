@@ -58,7 +58,7 @@ A comprehensive healthcare management system built using Java EE technologies fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/TCL_Java_New.git
+   git clone https://github.com/Mandeep210405/TCL-Java-Version.git
    ```
 
 2. Set up the database:
@@ -72,12 +72,12 @@ A comprehensive healthcare management system built using Java EE technologies fo
 4. Start the application:
    - Start XAMPP services (Apache and MySQL)
    - Deploy the application to Tomcat
-   - Access the application at `http://localhost:8080/TCL_Java_New`
+   - Access the application at `http://localhost:8080/TCL_Java`
 
 ## 📁 Project Structure
 
 ```
-TCL_Java_New/
+TCL_Java/
 ├── WEB-INF/
 │   ├── classes/
 │   └── web.xml
@@ -99,21 +99,10 @@ TCL_Java_New/
 - File upload security
 - SQL injection prevention
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Mandeep Jadeja - Initial work
 
 ## 🙏 Acknowledgments
 
